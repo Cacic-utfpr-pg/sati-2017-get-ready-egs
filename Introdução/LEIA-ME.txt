@@ -1,0 +1,17 @@
+-Para executar o jogo basta descompactar todo o conteúdo do arquivo 'As Aventuras de Oliver' e executar o .exe.
+	-Nota: Vale lembrar que os arquivos essenciais para executar o jogo são: 'As Aventuras de Oliver.exe' e 'As Aventuras de Oliver_Data'
+
+-Para abrir o codigo fonte, que está compactado separadamente no arquivo nome 'codigo fonte', é necessario que tenha instalado em sua maquina o programa Unity 3D. A versão utilizada foi a 2017.1.0f3.
+
+-Comandos Basicos:
+W,A,S,D - movimenta o personagem;
+ESPAÇO - Pula;
+Shift+Espaço - Pulo curto;
+1 - Coloca o Zul no chão (sentar/parado);
+2 - Coloca o Zul no chão (mover/lutar);
+3 - Faz o Zul se aproximar imediatamente de você;
+L - Nunca aperte!
+ESC - Pause menú.
+
+- Você não é um lutador, então não tente lutar.
+- Os dialogos explicam o proximo passo no game juntamente com a história.
