@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tentando tirar bug.Plugins", "Tentando tirar bug.Plugins.csproj", "{21B5E013-2F41-E42F-709E-CE92F30B685A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tentando tirar bug", "Tentando tirar bug.csproj", "{7EEB13EA-FA1C-8FE9-9550-4CF6D391FF24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tentando tirar bug.Editor.Plugins", "Tentando tirar bug.Editor.Plugins.csproj", "{E0850ACD-BA9D-6AD1-ACE5-CD985A5169C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21B5E013-2F41-E42F-709E-CE92F30B685A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B5E013-2F41-E42F-709E-CE92F30B685A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B5E013-2F41-E42F-709E-CE92F30B685A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B5E013-2F41-E42F-709E-CE92F30B685A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEB13EA-FA1C-8FE9-9550-4CF6D391FF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEB13EA-FA1C-8FE9-9550-4CF6D391FF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEB13EA-FA1C-8FE9-9550-4CF6D391FF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEB13EA-FA1C-8FE9-9550-4CF6D391FF24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0850ACD-BA9D-6AD1-ACE5-CD985A5169C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0850ACD-BA9D-6AD1-ACE5-CD985A5169C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0850ACD-BA9D-6AD1-ACE5-CD985A5169C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0850ACD-BA9D-6AD1-ACE5-CD985A5169C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

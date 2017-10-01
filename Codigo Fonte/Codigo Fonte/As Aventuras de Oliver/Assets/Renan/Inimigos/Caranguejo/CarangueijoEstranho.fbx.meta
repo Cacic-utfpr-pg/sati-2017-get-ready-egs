@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: b8c2def7841b6c44abd0c4dc5a852bcf
+timeCreated: 1505063034
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Back.leg.1.L
+    100004: Back.leg.1.R
+    100006: Back.leg.2.L
+    100008: Back.leg.2.R
+    100010: Back.leg.3.L
+    100012: Back.leg.3.R
+    100014: Back.leg.4.L
+    100016: Back.leg.4.R
+    100018: Back.leg.5.L
+    100020: Back.leg.5.L_end
+    100022: Back.leg.5.R
+    100024: Back.leg.5.R_end
+    100026: Body
+    100028: //RootNode
+    100030: Cube
+    100032: Front.leg.1.L
+    100034: Front.leg.1.R
+    100036: Front.leg.2.L
+    100038: Front.leg.2.R
+    100040: Front.leg.3.L
+    100042: Front.leg.3.R
+    100044: Front.leg.4.L
+    100046: Front.leg.4.R
+    100048: Front.leg.5.L
+    100050: Front.leg.5.L_end
+    100052: Front.leg.5.R
+    100054: Front.leg.5.R_end
+    100056: Head.Down
+    100058: Head.Mid
+    100060: Head.up
+    100062: Side.leg.1.L
+    100064: Side.leg.1.R
+    100066: Side.leg.2.L
+    100068: Side.leg.2.R
+    100070: Side.leg.3.L
+    100072: Side.leg.3.R
+    100074: Side.leg.4.L
+    100076: Side.leg.4.R
+    100078: Side.leg.5.L
+    100080: Side.leg.5.L_end
+    100082: Side.leg.5.R
+    100084: Side.leg.5.R_end
+    100086: TentacleL
+    100088: TentacleL_end
+    100090: TentacleM
+    100092: TentacleM_end
+    100094: TentacleR
+    100096: TentacleR_end
+    400000: Armature
+    400002: Back.leg.1.L
+    400004: Back.leg.1.R
+    400006: Back.leg.2.L
+    400008: Back.leg.2.R
+    400010: Back.leg.3.L
+    400012: Back.leg.3.R
+    400014: Back.leg.4.L
+    400016: Back.leg.4.R
+    400018: Back.leg.5.L
+    400020: Back.leg.5.L_end
+    400022: Back.leg.5.R
+    400024: Back.leg.5.R_end
+    400026: Body
+    400028: //RootNode
+    400030: Cube
+    400032: Front.leg.1.L
+    400034: Front.leg.1.R
+    400036: Front.leg.2.L
+    400038: Front.leg.2.R
+    400040: Front.leg.3.L
+    400042: Front.leg.3.R
+    400044: Front.leg.4.L
+    400046: Front.leg.4.R
+    400048: Front.leg.5.L
+    400050: Front.leg.5.L_end
+    400052: Front.leg.5.R
+    400054: Front.leg.5.R_end
+    400056: Head.Down
+    400058: Head.Mid
+    400060: Head.up
+    400062: Side.leg.1.L
+    400064: Side.leg.1.R
+    400066: Side.leg.2.L
+    400068: Side.leg.2.R
+    400070: Side.leg.3.L
+    400072: Side.leg.3.R
+    400074: Side.leg.4.L
+    400076: Side.leg.4.R
+    400078: Side.leg.5.L
+    400080: Side.leg.5.L_end
+    400082: Side.leg.5.R
+    400084: Side.leg.5.R_end
+    400086: TentacleL
+    400088: TentacleL_end
+    400090: TentacleM
+    400092: TentacleM_end
+    400094: TentacleR
+    400096: TentacleR_end
+    4300000: Cube
+    7400000: Armature|Andar
+    7400002: Armature|atacar
+    7400004: Armature|Provocar
+    7400006: Armature|Respirando
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
